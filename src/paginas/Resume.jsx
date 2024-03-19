@@ -7,10 +7,10 @@ function DataResume () {
         <>
         <nav>
             <div>
-            <Link to={"/"}>Home </Link>
+            <Link to="/">Home </Link>
             </div>                
             <div>
-            <Link to={"/projects"}> Proyectos</Link>
+            <Link to="/projects"> Proyectos</Link>
             </div>            
         </nav>
         <h1>Curriculum</h1>

@@ -8,10 +8,10 @@ function ProjectsData (){
         <>
         <nav>
             <div>
-            <Link to={"/"}>Home </Link>
+            <Link to="/">Home </Link>
             </div>                
             <div>
-            <Link to={"/resume"}> Formación y experiencia laboral</Link>
+            <Link to="/resume"> Formación y experiencia laboral</Link>
             </div>            
         </nav>
         <h2>Proyectos</h2>
